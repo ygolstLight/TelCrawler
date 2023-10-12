@@ -1,0 +1,27 @@
+{
+    "name": "my-crawler",
+    "version": "0.0.1",
+    "description": "This is an example of a Crawlee project.",
+    "dependencies": {
+        "@mtproto/core": "6.3.0",
+        "crawlee": "^3.0.0",
+        "input": "^1.0.1",
+        "playwright": "*",
+        "telegram": "^2.19.8"
+    },
+    "devDependencies": {
+        "@apify/tsconfig": "^0.1.0",
+        "@types/node": "^18.0.0",
+        "ts-node": "^10.8.0",
+        "typescript": "^5.0.0"
+    },
+    "scripts": {
+        "start": "npm run start:dev",
+        "start:prod": "node dist/main.js",
+        "start:dev": "node --no-warnings=ExperimentalWarning --loader ts-node/esm/transpile-only src/main.ts",
+        "build": "tsc",
+        "test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1"
+    },
+    "author": "It's not you it's me",
+    "license": "ISC"
+}

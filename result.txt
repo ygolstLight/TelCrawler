@@ -1,0 +1,23 @@
+Redis - Vectors
+
+Data sources => Vectros (Faces)
+  Excel 
+  Party
+
+
+Crawler - Telegram channel and websties?
+  Metadata: 
+    Channel id
+    Message Id
+    message conentent
+    Path (downloaded file)
+
+
+Bad guys source;
+  Data sources => Vectros (Faces)
+    Downloaded file
+
+For each entitiy: 
+  Faces to vectros
+  Search in db
+

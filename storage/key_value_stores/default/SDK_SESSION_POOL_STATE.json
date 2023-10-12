@@ -1,0 +1,59 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_a5WNbe4cWS",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-10-11T09:45:04.303Z",
+      "createdAt": "2023-10-11T08:55:04.303Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ZIN1crhsSE",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stel_ssid",
+            "value": "f02b5ea53e56918bbf_11234746684407143410",
+            "expires": "2023-10-12T08:55:05.359Z",
+            "domain": "t.me",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-10-11T08:55:06.331Z",
+            "lastAccessed": "2023-10-11T08:55:06.331Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-10-11T09:45:04.304Z",
+      "createdAt": "2023-10-11T08:55:04.304Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
